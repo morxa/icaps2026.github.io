@@ -1,3 +1,9 @@
+---
+title: "Doctoral Consortium"
+date: 2026-02-23
+draft: false
+---
+
 # ICAPS 2026 Doctoral Consortium – Call for Applications
 
 The ICAPS 2026 Doctoral Consortium (DC) will provide PhD students with the opportunity to interact closely with established researchers at the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026), which will be held in Dublin, Ireland, June 27 – July 2, 2026.
