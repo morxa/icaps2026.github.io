@@ -102,8 +102,8 @@ Here is the list of the worskhops accepted to ICAPS 2026
   
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/keps" target="_blank">KEPS</a></p>-->
-		<p><strong>KEPS</strong></p>
+ 		<p><a href="/program/workshops/keps" target="_blank">KEPS</a></p>
+		<!-- <p><strong>KEPS</strong></p> -->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Knowledge Engineering for Planning and Scheduling</strong></p>
