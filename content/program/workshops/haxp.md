@@ -7,6 +7,8 @@ draft: false
 # HAXP: Human-Aware and Explainable Planning
 
 ICAPS 2026 Workshop <br/>
+Dublin, Ireland
+June 27-28, 2026
 <!-- Room 6, Melbourne Connect, <br/>
 Melbourne, Victoria, Australia <br/>
 November 10, 2025 -->
@@ -37,6 +39,10 @@ The workshop includes - but is not limited to - the following topics:
 * Cognitive modeling, social interaction, and theory of mind.
 * Safety, ethics, fairness, transparency and responsible behavior generation in the context of planning/scheduling systems.
 * Representation and acquisition of human behavioral models.
+* Theories and applications of human behavior models.
+* Trust, communication, and collaboration in human-AI teams.
+* Benchmarking planning/scheduling domains for human-AI interaction.
+* Large language models in human-aware planning & scheduling.
 
 <!-- ## Accepted Papers
 
@@ -59,9 +65,9 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 
 ## Important Dates
 
-* Paper submission deadline: May 10, 2026 UTC-12
+* **Paper submission deadline: May 10, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
-<!-- * Camera-ready paper submissions: November 30, 2025 UTC-12 -->
+* Camera-ready paper submissions: TBD
 
 * Workshop date: June 27/28 (**TBD**), 2026
 
@@ -74,7 +80,8 @@ We invite submissions of the following types:
 * Position papers proposing HAXP challenges, outlining HAXP ideas, debating issues relevant to HAXP; up to 5 pages including references.
 
 Submissions will be hosted on [ChairingTool](https://chairingtool.com/conferences/haxp26/main-track)
-Please ensure that you have registered with OpenReview. New profiles with an institutional email will be activated immediately. However, new profiles without an institutional email may take up to two weeks to be activated.
+Please ensure that you have registered with ChairingTool. 
+<!-- New profiles with an institutional email will be activated immediately. However, new profiles without an institutional email may take up to two weeks to be activated. -->
 
 Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI format) available at: [Paper template](https://aaai.org/authorkit26-1/)
 
@@ -92,7 +99,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 <!-- * [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS, France -->
 * [Benjamin Krarup](https://scholar.google.co.uk/citations?user=yEjXNsQAAAAJ&hl=en) | King’s College London, UK
 * [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay) | Heriot-Watt University, UK
-* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University, USA
+<!-- * [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University, USA -->
 * [Silvia Tulli](https://silviatulli.com/) | Sorbonne University, France
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University, USA
 * [Chenyuan Zhang](https://sites.google.com/view/chenyuanzhang) | Monash University, Australia
