@@ -11,12 +11,13 @@ draft: false
 </div>
 
 We have reserved a block of bedrooms at The Clayton Hotel on Burlington Road, the conference venue, at a negotiated rate. Full breakfast is included in the price. Bedrooms are available for single occupancy and double occupancy on a first-come-first-served basis. Reservations that have nothing to do with ICAPS participants will be automatically cancelled.
+
 For the convenience of participants who do not fly away on the last day of the conference, we have included in the deal a block of rooms for the night from July 2nd to July 3rd. We encourage you to take this night when possible, which will help ICAPS fill the allocated quota.
 
 <strong>Please use the following link for bookings</strong> to The Clayton Hotel on Burlington Road: <a href="https://bookings.claytonhotels.com/offer/burlington-road/icapsconference" target="_blank">Booking Page</a>
 
-In case you want to <strong>share accommodation</strong>, we provide the following Spreadsheet to find other attendants that you can share a room with: <a href="https://docs.google.com/spreadsheets/d/1vRrgkAKpvq4ZIO9RPlJJRd9UkwAFBRlmho-UEQpYXwY/edit?usp=drive_link" target="_blank">Share Accommodation</a> <br>
-ICAPS does not manage this file. It is the responsibility of the participants to contact each other, find a room mate and complete all the steps of bedroom booking.
+In case you want to <strong>share accommodation</strong>, we provide a Discord server to get in touch with other attendants that you can share a room with: <a href="https://discord.gg/R32xdJKjHZ" target="_blank">Share Accommodation</a> <br>
+ICAPS does not manage this server. It is the responsibility of the participants to contact each other, find a room mate and complete all the steps of bedroom booking.
 
 <br><br>
 
