@@ -8,7 +8,7 @@ draft: false
 
 ICAPS 2026 Workshop <br/>
 Dublin, Ireland
-June 27-28, 2026
+June 28-29, 2026
 <!-- Room 6, Melbourne Connect, <br/>
 Melbourne, Victoria, Australia <br/>
 November 10, 2025 -->
@@ -69,7 +69,7 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
-* Workshop date: June 27/28 (**TBD**), 2026
+* Workshop date: June 28/29 (**TBD**), 2026
 
 ## Submission Details
 
