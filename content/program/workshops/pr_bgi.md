@@ -41,7 +41,14 @@ We invite the following types of submissions:
 - Position papers discussing open challenges, new perspectives, negative results, or practical experiences (up to 5 pages, excluding references)
 
 All submissions will be peer-reviewed based on relevance, quality, and their potential to stimulate discussion. We plan for accepted papers to be included in the archival workshop proceedings. At least one author of each accepted paper is expected to attend the workshop and present the work.
-Submission details, formatting instructions and submission link can be found in workshop webpage: TBD
+
+
+Submissions will be hosted on [ChairingTool](https://chairingtool.com/conferences/icaps-prbgi-26/main-track/)
+Please ensure that you have registered with ChairingTool. 
+<!-- New profiles with an institutional email will be activated immediately. However, new profiles without an institutional email may take up to two weeks to be activated. -->
+
+Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI format) available at: [Paper template](https://aaai.org/authorkit26-1/).
+
 
 
 ## Important Dates
