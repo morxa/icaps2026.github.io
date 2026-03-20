@@ -31,7 +31,7 @@ Every submission will be reviewed by members of the program committee according 
 
 ## Policy on Previously Published Materials
 
-Please do not submit papers that are already accepted for the ICAPS main conference. All other submissions, e.g., papers under review for AAAI'25, are welcome. Authors submitting papers rejected from the ICAPS main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Also, it is your responsibility to ensure that other venues your work is submitted to allow for papers to be already published in “informal” ways (e.g., on proceedings or websites without associated ISSN/ISBN).
+Please do not submit papers that are already accepted for the ICAPS main conference. All other submissions are welcome. Authors submitting papers rejected from the ICAPS main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Also, it is your responsibility to ensure that other venues your work is submitted to allow for papers to be already published in "informal" ways (e.g., on proceedings or websites without associated ISSN/ISBN).
 
 
 
