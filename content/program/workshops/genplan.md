@@ -6,6 +6,8 @@ draft: false
 
 # Workshop on Generalization in Planning (GenPlan)
 
+Official Website: [https://aair-lab.github.io/genplan26](https://aair-lab.github.io/genplan26)
+
 ## Aim and Scope of the Workshop
 
 Generalization and transfer are essential components of intelligence, and significant research efforts have been dedicated to addressing these challenges in sequential decision-making. However, this research is often fragmented across largely parallel research communities such as AI planning, reinforcement learning, model learning, robotics, etc. Recent advances in deep reinforcement learning and generative AI have led to data-driven methods that are effective for short-horizon reasoning and decision-making, with open problems regarding sample efficiency, guarantees of correctness, and applicability to long-horizon settings. Conversely, the AI planning community has made complementary strides, developing robust analytical methods that enable sample-efficient generalization and transferability in long-horizon planning, with open problems in designing and modeling the necessary representations.
